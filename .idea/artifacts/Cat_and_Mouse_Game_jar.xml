@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Cat-and-Mouse-Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cat_and_Mouse_Game_jar</output-path>
+    <root id="archive" name="Cat-and-Mouse-Game.jar">
+      <element id="module-output" name="Cat-and-Mouse-Game" />
+    </root>
+  </artifact>
+</component>
